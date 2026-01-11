@@ -29,6 +29,4 @@ Este projeto consiste em um assistente virtual desenvolvido na plataforma **Blip
 ## 👨‍💻 Como executar
 Para replicar este projeto, você pode importar o arquivo `.json` localizado na pasta `/fluxo` para sua conta do Blip e configurar as variáveis de API.
 
----
-Desenvolvido por [Seu Nome] - Estudante de Engenharia da Computação
-[Seu LinkedIn]
+
